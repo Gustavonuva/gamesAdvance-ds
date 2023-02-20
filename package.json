@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -35,16 +35,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "alurabooks-ds",
+  "name": "gamesadvance-ds",
   "author": "Gustavo Vaz",
-  "module": "dist/alurabooks-ds.esm.js",
+  "module": "dist/gamesAdvance-ds.esm.js",
   "size-limit": [
     {
-      "path": "dist/alurabooks-ds.cjs.production.min.js",
+      "path": "dist/gamesAdvance-ds.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/alurabooks-ds.esm.js",
+      "path": "dist/gamesAdvance-ds.esm.js",
       "limit": "10 KB"
     }
   ],
