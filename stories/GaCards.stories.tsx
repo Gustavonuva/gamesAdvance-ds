@@ -10,7 +10,7 @@ export default {
 export const cardComponent = () => {
   return (
     <GaCards>
-      <h1>Ola, eu sou um card</h1>
+      <h1>Ola, eu sou um card!</h1>
     </GaCards>
   );
 };
