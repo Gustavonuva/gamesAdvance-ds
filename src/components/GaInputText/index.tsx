@@ -44,7 +44,6 @@ export const GaInputText = ({
         type={type}
         value={value}
         onChange={event => onChange(event.target.value)}
-        placeholder="seuemail@gmail.com.br"
       />
     </div>
   );
