@@ -1,3 +1,16 @@
+# v0.2.6 (Wed Feb 22 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/Gustavonuva/gamesAdvance-ds ([@Gustavonuva](https://github.com/Gustavonuva))
+- adicionando export components ([@Gustavonuva](https://github.com/Gustavonuva))
+
+#### Authors: 1
+
+- Gustavo Vaz ([@Gustavonuva](https://github.com/Gustavonuva))
+
+---
+
 # v0.2.5 (Wed Feb 22 2023)
 
 #### ⚠️ Pushed to `main`
