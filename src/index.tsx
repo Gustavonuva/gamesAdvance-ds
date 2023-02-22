@@ -14,5 +14,10 @@ export const Thing: FC<Props> = ({ children }) => {
   return <div>{children || `the snozzberries taste like snozzberries`}</div>;
 };
 
-export * from './components/GaBotao'
-export * from './components/GaGrupoOpcoes'
+export * from './components/GaBotao';
+export * from './components/GaGrupoOpcoes';
+export * from './components/GaInputText';
+export * from './components/GaModal';
+export * from './components/GaTags';
+export * from './components/GaInputQuantidade';
+export * from './components/GaCards';
