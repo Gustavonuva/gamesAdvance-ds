@@ -1,3 +1,15 @@
+# v0.2.7 (Thu Feb 23 2023)
+
+#### ⚠️ Pushed to `main`
+
+- add props input text ([@Gustavonuva](https://github.com/Gustavonuva))
+
+#### Authors: 1
+
+- Gustavo Vaz ([@Gustavonuva](https://github.com/Gustavonuva))
+
+---
+
 # v0.2.6 (Wed Feb 22 2023)
 
 #### ⚠️ Pushed to `main`
